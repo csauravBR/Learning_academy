@@ -1,4 +1,4 @@
-# Tutorials
+# Python Pandas Tutorials
 This is tutorial on python package Pandas. This is written for the purpose of class room classes. Contains jupyter notebook for coding to learn.
 
 Pandas is an open-source Python Library providing high-performance data manipulation and analysis tool
