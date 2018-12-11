@@ -2,6 +2,10 @@
 This is a series of Python tutorial on pandas, sklearn etc for the purpose of teaching in class.
 It contains jyputer notebook with class work and assignments
 
+### List of tutorials
+- Pandas
+- scikit-learn (sklearn)
+
 
 ### Getting started
 
