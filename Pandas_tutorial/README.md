@@ -13,4 +13,7 @@ If you don't have pandas yet then download and install using below command
 pip install pandas
 ```
 
-2. Download ipynb file and follow the instruction. (the notebook is not self explainatory for students as it is written to be explained by instructor in class)
+2. Run bellow command to start sklearn_tutorial.ipynb notebook tutorial.
+```
+jupyter notebook pandas_tutorial.ipynb
+```
