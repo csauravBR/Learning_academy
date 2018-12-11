@@ -5,10 +5,10 @@ It contains jyputer notebook with class work and assignments
 
 ### Getting started
 
-1. You must have related packages installed. If you have installed python with anaconda the you will most of the packages preinstalled.
+1. You must have related packages installed. If you have installed python with anaconda then you will most of the packages preinstalled.
 Every tutorial readme contains way to install that packages. Follow the instruction to install Anaconda if you don't have yet.
 
-#### Installing Anaconda
+### Installing Anaconda
 Anaconda is available for Windows, Mac OS X, and Linux. You can find the installers and installation instructions at https://www.anaconda.com/download/.
 
 If you already have Python installed on your computer, this won't break anything. Instead, the default Python used by your scripts and programs will be the one that comes with Anaconda.
