@@ -14,6 +14,7 @@ pip install pandas
 ```
 
 2. Run bellow command to start sklearn_tutorial.ipynb notebook tutorial.
+
 ```
 jupyter notebook pandas_tutorial.ipynb
 ```
